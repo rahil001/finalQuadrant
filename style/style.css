@@ -1,0 +1,144 @@
+.form-container {
+    width: 400px;
+    margin: 50px auto;
+}
+
+.login-text {
+    text-align: center;
+    margin: 30px auto;
+    color: #c14e4a;
+}
+
+.mask {
+
+    width: 200px;
+    margin: 200px auto;
+}
+
+.error {
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+    margin-left: 150px;
+}
+
+label {
+    color: #c14e4a;
+    font-size: 20px;
+}
+
+.card-img-top {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.task-wrapper {
+    margin: 40px auto;
+}
+
+.taskTitle {
+    text-align: center;
+    margin: 20px;
+    color: #c14e4a;
+}
+.task-wrapper .card-deck {
+    display: inline-block !important;
+}
+.task-wrapper .card-deck .card {
+    display: inline-block;
+    width: 28%;
+    color: #c14e4a;
+    height: 250px;
+    margin: 25px;
+    cursor: pointer;
+}
+
+.card-footer {
+    margin-top: 30px;
+}
+
+.fr {
+    float: right;
+}
+
+.filterImg {
+    max-height: 30px;
+    max-width: 30px;
+}
+
+.filter {
+    position: relative;
+    top: -40px;
+    right: 48px;
+    cursor: pointer;
+}
+ul , li{
+    margin: 0;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.filter-options {
+    float: right;
+    z-index: 1000000;
+    position: absolute;
+    right: 137px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    top: 121px;
+    border: 1px solid #e5e5e5;
+    background-color: #c77a77;
+}
+li:hover{
+    cursor: pointer;
+    background-color: #ffffff;
+}
+
+.task-container {
+    color: #c77a77;
+    width: 50%;
+    line-height: 20px;
+    margin: 35px auto;
+}
+
+.task-info {
+    border: 1px solid #c77a77;
+}
+
+.task-value {
+    font-size: 17px;
+    width: 100px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.task-key {
+    font-size: 21px;
+    font-weight: bold;
+    width: 33%;
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+}
+
+.task-detail-text {
+    text-align: center;
+    margin-top: 25px;
+    color: #c77a77;
+}
+.back{
+    position: relative;
+    right: 155px;
+    cursor: pointer;
+}
+.Back-to-list {
+    text-decoration: underline;
+    margin-left: 2px;
+}
+.task-input {
+    border: none;
+    text-transform: capitalize;
+}
