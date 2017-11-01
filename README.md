@@ -23,6 +23,6 @@ A set of valid credentails
     password: AdamSecret
 
 
-3. username : Bryant
-    password: BryantSecret
+3. username : Solomon
+    password: SolomonSecret
 ```

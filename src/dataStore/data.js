@@ -151,6 +151,42 @@ export const tasks = [
         finishedAt: "",
         status: "assigned",
         assignee: "usr_trz431"
+    },
+    {
+        id: "tsk_5r86pl",
+        title: "Finish the BI",
+        description: "Generate and summarize a landing page BI",
+        finishBy: "2017-09-05",
+        finishedAt: "",
+        status: "assigned",
+        assignee: "usr_trz441"
+    },
+    {
+        id: "tsk_5r87pl",
+        title: "Finish the BI",
+        description: "Generate and summarize a landing page BI",
+        finishBy: "2017-09-05",
+        finishedAt: "",
+        status: "assigned",
+        assignee: "usr_trz441"
+    },
+    {
+        id: "tsk_5r88pl",
+        title: "Finish the BI",
+        description: "Generate and summarize a landing page BI",
+        finishBy: "2017-09-05",
+        finishedAt: "",
+        status: "finished",
+        assignee: "usr_trz441"
+    },
+    {
+        id: "tsk_5r89l",
+        title: "Finish the BI",
+        description: "Generate and summarize a landing page BI",
+        finishBy: "2017-09-05",
+        finishedAt: "",
+        status: "finished",
+        assignee: "usr_trz441"
     }
 
 ];
